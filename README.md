@@ -1,3 +1,7 @@
+## Demo
+
+Try the app live here: [Factorial Calculator App](https://factorial-app-lblollzynd6ahy7q9idjox.streamlit.app/)
+
 # Factorial Calculator App
 
 A simple web application built with Streamlit to calculate the factorial of a non-negative integer.
